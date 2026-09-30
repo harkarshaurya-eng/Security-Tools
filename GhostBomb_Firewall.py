@@ -1,4 +1,5 @@
 #This is only made to understand how does a firewall works, using blocking IPs firewall rules
+#This will be periodically updated to realtime system 
 
 import random #to generate random ip addresses
 
